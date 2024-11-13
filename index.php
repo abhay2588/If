@@ -26,7 +26,7 @@ https://iptv-live-play1.streamready.in/live/media11/star_plus/dashc/star_plus.mp
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_STAR_PLUS_HD" tvg-name="Star Plus HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a2c5625a16ee72e905/images/star_plus_hd.png",Star Plus HD
 https://iptv-live-play1.streamready.in/live/media1/star_plus_hd/dashc/star_plus_hd.mpd
 
-#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_TV" tvg-name="Zee TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657979d4a9540e6b3ede4b1e/images/zee_tv.png",Zee TV
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_TV" tvg-name="Zee TV" tvg-logo=/assets/LIVETV/LIVECHANNEL",Zee TV
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd?|drmScheme=clearkey&drmLicense=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_TV_HD" tvg-name="Zee TV HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797997c5625a16ee72fc23/images/zee_tv_hd.png",Zee TV HD
