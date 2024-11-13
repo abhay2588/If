@@ -27,7 +27,7 @@ https://iptv-live-play1.streamready.in/live/media11/star_plus/dashc/star_plus.mp
 https://iptv-live-play1.streamready.in/live/media1/star_plus_hd/dashc/star_plus_hd.mpd
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_TV" tvg-name="Zee TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657979d4a9540e6b3ede4b1e/images/zee_tv.png",Zee TV
-https://iptv-live-play1.streamready.in/live/media12/zee_tv/dashc/zee_tv.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd?|drmScheme=clearkey&drmLicense=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_TV_HD" tvg-name="Zee TV HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797997c5625a16ee72fc23/images/zee_tv_hd.png",Zee TV HD
 https://iptv-live-play1.streamready.in/live/media11/zee_tv_hd/dashc/zee_tv_hd.mpd
@@ -45,7 +45,7 @@ https://iptv-live-play1.streamready.in/live/media11/star_bharat/dashc/star_bhara
 https://iptv-live-play1.streamready.in/live/media2/star_bharat_hd/dashc/star_bharat_hd.mpd
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SYMANDTV" tvg-name="&TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eed7033abf53d08e53b1/images/_tv.png",&TV
-https://iptv-live-play1.streamready.in/live/media15/and_tv/dashc/and_tv.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd?|drmScheme=clearkey&drmLicense=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SYMAND_TV_HD" tvg-name="& TV HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eebcfe0772265fedb901/images/__tv_hd.png",& TV HD
 https://iptv-live-play1.streamready.in/live/media18/and_tv_hd/dashc/and_tv_hd.mpd
@@ -87,7 +87,8 @@ https://iptv-live-play1.streamready.in/live/media14/investigation_discovery_hd/v
 https://iptv-live-play1.streamready.in/live/media2/epic/vdashc/epic.mpd
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL" tvg-name="Zee Anmol" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f59b315d22c1f80fba/images/zee_anmol.png",Zee Anmol
-https://iptv-live-play1.streamready.in/live/media12/zee_anmol/dashc/zee_anmol.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd?|drmScheme=clearkey&drmLicense=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
+
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ISHARA_TV" tvg-name="Ishara TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfeb23d1fb238115e25d/images/ishara_tv.png",Ishara TV
 https://iptv-live-play1.streamready.in/live/media14/ishara_tv/vdashc/ishara_tv.mpd
@@ -156,7 +157,7 @@ https://iptv-live-play1.streamready.in/live/media1/sony_max/vdashc/sony_max.mpd
 https://iptv-live-play1.streamready.in/live/media15/sony_max_hd/vdashhc/sony_max_hd.mpd
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_CINEMA" tvg-name="ZEE CINEMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f51c033abf53d08e967a/images/zee_cinema.png",ZEE CINEMA
-https://iptv-live-play1.streamready.in/live/media12/zee_cinema/dashc/zee_cinema.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd?|drmScheme=clearkey&drmLicense=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD" tvg-name="Zee Cinema HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572fd29fe0772265fee52f7/images/zee_cinema_hd.png",Zee Cinema HD
 https://iptv-live-play1.streamready.in/live/media10/zee_cinema_hd/dashc/zee_cinema_hd.mpd
@@ -180,7 +181,7 @@ https://iptv-live-play1.streamready.in/live/media14/sony_max_2/vdashc/sony_max_2
 https://iptv-live-play1.streamready.in/live/media15/and_pictures/dashc/and_pictures.mpd
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD" tvg-name="& Pictures HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f0eefe0772265fedcea9/images/__pictures_hd.png",& Pictures HD
-https://iptv-live-play1.streamready.in/live/media18/and_pictures_hd/dashc/and_pictures_hd.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd?|drmScheme=clearkey&drmLicense=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE" tvg-name="Star Gold Romance" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f15a033abf53d08e6f43/images/star_gold_romance.png",Star Gold Romance
 https://iptv-live-play1.streamready.in/live/media11/star_gold_romance/dashc/star_gold_romance.mpd
@@ -591,7 +592,7 @@ https://iptv-live-play1.streamready.in/live/media18/rt/dashc/rt.mpd
 https://iptv-live-play1.streamready.in/live/media18/france_24/dashc/france_24.mpd
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TLC" tvg-name="TLC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ab25986346a8f0e2f1/images/tlc.png",TLC
-https://iptv-live-play1.streamready.in/live/media4/tlc/vdashc/tlc.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd?|drmScheme=clearkey&drmLicense=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TLC_HD" tvg-name="TLC HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e4c5625a16ee72ee2a/images/tlc_hd.png",TLC HD
 https://iptv-live-play1.streamready.in/live/media16/tlc_hd/vdashhc/tlc_hd.mpd
@@ -609,7 +610,8 @@ https://iptv-live-play1.streamready.in/live/media4/travelxp/vdashc/travelxp.mpd
 https://iptv-live-play1.streamready.in/live/media17/zee_zest_hd/dashc/zee_zest_hd.mpd
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_CHANNEL" tvg-name="Discovery Channel" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761105e533e2124e759846/images/discovery_channel.png",Discovery Channel
-https://iptv-live-play1.streamready.in/live/media1/discovery_channel/vdashc/discovery_channel.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd?|drmScheme=clearkey&drmLicense=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
+
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_HD_WORLD" tvg-name="Discovery HD World" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761110e533e2124e75991a/images/discovery_hd_world.png",Discovery HD World
 https://iptv-live-play1.streamready.in/live/media14/discovery_hd_world/vdashhc/discovery_hd_world.mpd
@@ -639,10 +641,10 @@ https://iptv-live-play1.streamready.in/live/media16/history_tv18/dashc/history_t
 https://iptv-live-play1.streamready.in/live/media8/history_tv18_hd/dashc/history_tv18_hd.mpd
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_SCIENCE" tvg-name="Discovery Science" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761111a3b7866cb8414d76/images/discovery_science.png",Discovery Science
-https://iptv-live-play1.streamready.in/live/media13/discovery_science/vdashc/discovery_science.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd?|drmScheme=clearkey&drmLicense=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO" tvg-name="Discovery Turbo" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8b3/images/discovery_turbo.png",Discovery Turbo
-https://iptv-live-play1.streamready.in/live/media14/discovery_turbo/vdashc/discovery_turbo.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd?|drmScheme=clearkey&drmLicense=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_NAT_GEO_WILD" tvg-name="Nat Geo wild" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579789fc4589e08ce80ebd3/images/nat_geo_wild.png",Nat Geo wild
 https://iptv-live-play1.streamready.in/live/media11/nat_geo_wild/dashc/nat_geo_wild.mpd
