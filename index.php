@@ -2,7 +2,7 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zYTtE2sMxx-KuM1NT2ouTA","kid":"A8Lgry-BWfnwzptdvIZfEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="197" group-title="Sports", Astro Cricket
-https://iii-silk.vercel.app/2504/default.mpd?|drmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+https://iii-silk.vercel.app/2504/default.mpd?|drmScheme=clearkey&drmLicense=a8eb0f152c6e429ca7a53f399aadf257:c593c2eeea62742285b99e4d87b1c84a
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
