@@ -24,8 +24,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 #EXTINF:-1 tvg-logo=" https://images.fubo.tv/channel-config-ui/station-logos/on-dark/willow_2023_primary-white.png" group-title="Cricket ",WILLOW CRICKET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=59ed8dc9d4a48857ef8e5865919496cc:0d3680bd8b349deda8b7fdd1da71b7f8
-https://cors-proxy.cooks.fyi/https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(WILLHD-3291.dfw.1080)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=61d5f72a22d9e8b6a953f3516e5d4f7f:c81009990766a50feae298ab74940db2
+https://abgqckoaaaaaaaambcrovz6jv4i5x.a44e5017b2a24d109a79eef5850f6b97.emt.cf.ww.aiv-cdn.net/Content/HLS.cps/
+Live/channel(WILLHD-3291.dfw.1080)/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://images.fubo.tv/channel-config-ui/station-logos/on-dark/willow_2023_primary-white_xtra.png " group-title="Cricket",WILLOW XTRA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
